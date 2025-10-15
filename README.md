@@ -24,7 +24,7 @@ This task focuses on modeling and analyzing the daily demand for beer to establi
     * Key metrics like the **mean** and **standard deviation** of the demand are calculated.
     * The **95th percentile** of the demand distribution is recommended as the daily supply limit. This ensures that the stadium can meet demand on 95% of its operating days. The recommended limit is visualized in a histogram.
 
-## Task 2: Intra-Day Demand and Audience Flow
+# Task 2: Intra-Day Demand and Audience Flow
 
 This task refines the demand model by simulating how audience numbers and demand fluctuate throughout a single day.
 
