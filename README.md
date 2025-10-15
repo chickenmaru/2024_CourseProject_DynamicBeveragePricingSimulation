@@ -78,8 +78,3 @@ This final task enhances the dynamic model by incorporating the **interplay betw
     * Negative coefficients indicate competitive goods (e.g., higher beer prices might decrease cocktail demand).
 * **Optimization**: The simulation explores a range of potential discount upper limits to find the one that yields the highest total profit. It simulates with various discount levels and plots the relationship between the discount limit and total profit.
 * **Conclusion**: The script outputs the optimal discount limit and the corresponding profit, providing a more refined and realistic pricing strategy for the stadium. It also visualizes the price and sales trends under this optimized model.
-
-
-    * **負值**表示競爭品（例如，啤酒價格上漲可能會降低調酒的需求）。
-* **優化**：模擬會探索一系列可能的折扣上限，以找出能帶來最高總利潤的最佳值。專案會模擬不同的折扣水準，並繪製折扣上限與總利潤之間的關係圖。
-* **結論**：腳本將輸出最佳的折扣上限和相應的利潤，為球場提供一個更精確且貼近現實的定價策略。同時，也會視覺化此優化模型下的價格和銷售趨勢。
